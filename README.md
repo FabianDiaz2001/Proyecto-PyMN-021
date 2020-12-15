@@ -1,6 +1,8 @@
-# Bienvenido al repositorio de la materia Programacion y Metodos Cientificos
+# Bienvenido al repositorio de la materia Programacion y Metodos Cientificos.
+# Universidad Autonoma de Baja California.
 
-
+## Introducción al entorno y variables de programación en lenguaje C
+## [Practica 1] https://github.com/FabianDiaz2001/proyecto_pymn_2020-2_021/tree/main/Practica%201
 You can use the [editor on GitHub](https://github.com/FabianDiaz2001/proyecto_pymn_2020-2_021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
