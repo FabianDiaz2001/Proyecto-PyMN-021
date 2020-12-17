@@ -22,7 +22,7 @@
 ## Derivación numérica.
 [Practica 10](https://github.com/FabianDiaz2001/proyecto_pymn_2020-2_021/blob/main/Practica%2010/Derivacion%20Numerica.c)
 
-##Métodos de ecuaciones lineales.
+## Métodos de ecuaciones lineales.
 [Practica 11](https://github.com/FabianDiaz2001/proyecto_pymn_2020-2_021/tree/main/Practica%2011)
 
 
